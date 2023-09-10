@@ -1,0 +1,16 @@
+May 12, 2023 12:35:42 PM cosc202.andie.EditableImage apply
+INFO: Added op to ops cosc202.andie.SoftBlur@61e72780
+May 12, 2023 12:35:44 PM cosc202.andie.EditableImage apply
+INFO: Added op to ops cosc202.andie.ConvertToGrey@6039a9bc
+May 12, 2023 12:35:52 PM cosc202.andie.EditableImage apply
+INFO: Added op to ops cosc202.andie.Resize@3333958f
+May 12, 2023 12:36:10 PM cosc202.andie.EditableImage apply
+INFO: Added op to ops cosc202.andie.MedianBlur@63a069c0
+May 12, 2023 12:36:26 PM cosc202.andie.EditableImage apply
+INFO: Added op to ops cosc202.andie.MedianBlur@63a069c0
+May 12, 2023 1:03:01 PM cosc202.andie.EditableImage apply
+INFO: Added op to ops cosc202.andie.SharpenFilter@3f5a2233
+May 12, 2023 1:03:13 PM cosc202.andie.EditableImage apply
+INFO: Added op to ops cosc202.andie.SharpenFilter@3f5a2233
+May 12, 2023 1:03:18 PM cosc202.andie.EditableImage apply
+INFO: Added op to ops cosc202.andie.MeanFilter@777fd6d1
